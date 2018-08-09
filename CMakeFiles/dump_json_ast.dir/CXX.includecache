@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/profectus/rp/libgraphqlparser/AstNode.h
+location.hh
+/Users/profectus/rp/libgraphqlparser/location.hh
+
+/Users/profectus/rp/libgraphqlparser/GraphQLParser.h
+memory
+-
+stdio.h
+-
+
+/Users/profectus/rp/libgraphqlparser/c/GraphQLAstToJSON.h
+
+/Users/profectus/rp/libgraphqlparser/dump_json_ast.cpp
+AstNode.h
+/Users/profectus/rp/libgraphqlparser/AstNode.h
+GraphQLParser.h
+/Users/profectus/rp/libgraphqlparser/GraphQLParser.h
+c/GraphQLAstToJSON.h
+/Users/profectus/rp/libgraphqlparser/c/GraphQLAstToJSON.h
+cstdio
+-
+cstdlib
+-
+iostream
+-
+
+/Users/profectus/rp/libgraphqlparser/location.hh
+position.hh
+/Users/profectus/rp/libgraphqlparser/position.hh
+
+/Users/profectus/rp/libgraphqlparser/position.hh
+algorithm
+-
+iostream
+-
+string
+-
+

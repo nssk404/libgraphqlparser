@@ -1,0 +1,10 @@
+# Hashes of file build rules.
+65aa94394473deed4718840bb0074def Ast.cpp
+d9ee1dcdeaada42bbc3853634fb5d90c Ast.h
+8a663cdecfe5bb5b102d601f85c95630 AstVisitor.h
+4a1356d2b9f33f072137c5aa3b698ac1 JsonVisitor.cpp.inc
+366e3109cdbad2695f778abe66399a3f JsonVisitor.h.inc
+674612707426fc65140eed781654946a c/GraphQLAst.cpp
+ef61cd6ccd7ec40bd441d0defd4a40ef c/GraphQLAst.h
+d63103b43607e79b18dd747c8b4f697d c/GraphQLAstForEachConcreteType.h
+6f4dc8688e9782cfd0db3e237291b5f6 lexer.cpp

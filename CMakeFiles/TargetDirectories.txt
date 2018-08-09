@@ -1,0 +1,14 @@
+/Users/profectus/rp/libgraphqlparser/CMakeFiles/install/local.dir
+/Users/profectus/rp/libgraphqlparser/CMakeFiles/install/strip.dir
+/Users/profectus/rp/libgraphqlparser/CMakeFiles/install.dir
+/Users/profectus/rp/libgraphqlparser/CMakeFiles/rebuild_cache.dir
+/Users/profectus/rp/libgraphqlparser/CMakeFiles/dump_json_ast.dir
+/Users/profectus/rp/libgraphqlparser/CMakeFiles/edit_cache.dir
+/Users/profectus/rp/libgraphqlparser/CMakeFiles/list_install_components.dir
+/Users/profectus/rp/libgraphqlparser/CMakeFiles/graphqlparser.dir
+/Users/profectus/rp/libgraphqlparser/python/CMakeFiles/install/local.dir
+/Users/profectus/rp/libgraphqlparser/python/CMakeFiles/install/strip.dir
+/Users/profectus/rp/libgraphqlparser/python/CMakeFiles/install.dir
+/Users/profectus/rp/libgraphqlparser/python/CMakeFiles/list_install_components.dir
+/Users/profectus/rp/libgraphqlparser/python/CMakeFiles/rebuild_cache.dir
+/Users/profectus/rp/libgraphqlparser/python/CMakeFiles/edit_cache.dir
